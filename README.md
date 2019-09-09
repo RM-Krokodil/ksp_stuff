@@ -1,2 +1,2 @@
 # ksp_stuff
-Placeholder repo for old links
+This repository has moved to: https://github.com/qsniyg/ksp_stuff
